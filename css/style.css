@@ -555,6 +555,17 @@
 				border-radius: 50%;
 			}
 
+		.imagens{
+			width: 300px;
+			border: 1px solid black;
+			padding: 15px;
+			border-radius: 5px;
+		}	
+
+		figure{
+			text-align: center;
+		}
+
 /* List */
 
 	ol {
